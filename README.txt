@@ -1,1 +1,1 @@
-background js project made by reomeojeremiah on github
+background js project made by romeojeremiah on github
